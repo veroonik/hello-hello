@@ -3,6 +3,8 @@ another repository
 
 Hello, thanks for study.
 
+vocabutary
+
 f = open('input.txt')
 N = f.readline()
 d = {}
